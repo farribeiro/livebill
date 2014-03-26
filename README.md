@@ -1,6 +1,6 @@
 # LiveBill
 
-The LiveBill, is want be a simple printer billing system for Xerox and Lexmark machines. As page count or tonner's percentage 
+The LiveBill is a simple billing system for Xerox and Lexmark machines. As page count or tonner's percentage.
 
 ## About the name
 
