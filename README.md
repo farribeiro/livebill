@@ -4,7 +4,7 @@ The LiveBill is a simple billing system for Xerox and Lexmark machines. As page 
 
 ## About the name
 
-The name is similar "Kill Bill" because in second interpretation is a parody, Live as want use comet or possible implementation of websockets on the system and Bill of billing
+The name is similar "*Kill Bill*" because in second interpretation is a parody, Live as want use comet or possible implementation of websockets on the system and Bill of billing
 
 ## About the language programming?
 
