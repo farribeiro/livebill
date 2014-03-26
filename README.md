@@ -9,3 +9,5 @@ The name as *"Kill Bill*",  is parody, Live a want use comet or possible websock
 ## About the language programming?
 
 Now I'm tinking about what fits to the project... Java with Java, Scala or Groovy? Ruby? Python? Javascript with NodeJS? Or then ShellScript?
+
+Using Regulars Expression I can filter a variety information on a raw text. This is in first time the pilar of system.
