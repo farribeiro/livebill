@@ -1,0 +1,7 @@
+body{
+    font: 1em Verdana;
+}
+
+.logon{float: right;}
+
+#logon .field{border: 1px solid #ccc;}
